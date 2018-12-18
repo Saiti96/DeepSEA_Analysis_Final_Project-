@@ -1,8 +1,8 @@
 # DeepSEA_Analysis_Final_Project-
 #Final Project for Information to Genomics Information Science and Technology
 
-DeepSEA online link: http://deepsea.princeton.edu/job/analysis/create/
-DeepSEA standalone download link: http://deepsea.princeton.edu/media/code/deepsea.v0.94b.tar.gz
+#DeepSEA online link: http://deepsea.princeton.edu/job/analysis/create/
+#DeepSEA standalone download link: http://deepsea.princeton.edu/media/code/deepsea.v0.94b.tar.gz
 
 Example Input: 
 chr1	109817590	[known_CEBP_binding_increase] 	 G T
