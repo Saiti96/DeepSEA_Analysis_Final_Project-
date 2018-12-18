@@ -1,5 +1,7 @@
 # DeepSEA_Analysis_Final_Project-
-#Final Project for Information to Genomics Information Science and Technology
+#Final Project for Introduction to Genomics Information Science and Technology
+#ECBME4060\
+#Saiti Halder, Aubrianna Queen\
 
 #DeepSEA online link: http://deepsea.princeton.edu/job/analysis/create/ \
 #DeepSEA standalone download link: http://deepsea.princeton.edu/media/code/deepsea.v0.94b.tar.gz 
